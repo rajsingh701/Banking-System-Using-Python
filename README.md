@@ -3,13 +3,13 @@
 Banking System Project in Python
 This project implements a Banking System using Python, showcasing Object-Oriented Programming (OOP) principles. The system includes features such as account creation, deposit, withdrawal, and balance inquiry, all implemented with a focus on extensibility and maintainability.
 
-Key Features
+##Key Features
 
-Abstract Base Class for Bank Accounts:
+**Abstract Base Class for Bank Accounts:**
     A base class BankAccount serves as the blueprint for all account types.
     Abstract methods withdraw and deposit enforce consistent behavior across derived account types.
     
-Encapsulation:
+**Encapsulation:**
     Private attributes such as __owner, __account_number, and __balance ensure data security.
     Getter and setter methods provide controlled access to these attributes.
     
