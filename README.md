@@ -22,11 +22,11 @@ This project implements a Banking System using Python, showcasing Object-Oriente
 **Scalability:**
     The project structure allows easy addition of new account types or features without significant changes to existing code.
 
-### 
+
 ![Banking System Project in Python - visual selection (1)](https://github.com/user-attachments/assets/6c756ce9-b58e-4feb-abc4-ff5f538c9c36)
 
     
-#### Example Functionality
+## Example Functionality
 **Account Management:**
 Create new bank accounts with owner information, account numbers, and initial balances.
 
@@ -38,7 +38,7 @@ Withdraw funds, ensuring sufficient balance.
 Use of private variables for sensitive information such as account numbers and balances.
 
 
-##### Potential Enhancements
+## Potential Enhancements
 **Database Integration:**
 Connect the system to a database for persistent storage of account information.
 
